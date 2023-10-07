@@ -1,0 +1,2 @@
+D:\TNG50_bar\visual_classifier\black.png
+D:\TNG50_bar\visual_classifier\white.png
